@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @twn29004
-- 👀 I’m interested in 3D Object Detector
+- 👀 I’m interested in 3D Object Detection
 - 🌱 I’m currently learning XJTU
 - 📫 How to reach me twn29004@gamil.com
 
